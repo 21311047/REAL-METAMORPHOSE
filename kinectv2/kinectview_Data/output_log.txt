@@ -1,0 +1,46 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M       (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M       (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Plaatfform maassememlb: C:\ C:UUserrs\SportDataAnalyysis\oDocuments\nkine2\kitve2\kinectatiewa\Man\Managed\UnityEngine.(tll i(this amessaghe misss)
+ harmLoadin
+g C:\Loadi\Spor:tDseaAsnapoysis\aAnaDyocu\ments\kisnkinectv2\kinectview_Data\Managed\UnityEngine.ldll into Unity ld Dod Dinai
+n
+Pllatoform assembl : C::\Users\SportDataAanalysiDocumentsnts\kininectv2\kinectviewv_Data\tManaged\A\AessemblSy-CSharp-firstpass.dll (this message is harmle
+ss)
+LoaLinading CC:\Users\SportDataAnalysis\Documenns\kinectv2\nectk2\nkineictview_DMta\Managed\AsmbemblyShar--firstpass.dll into Unity Child Domain
+Domain
+Plltaorforsme bays s:\Users\Sp\Ursers\SportDataAncalysis\Documents\kinectiv2\kinectviegw_\Data\Mla-naged\Assem(bly-CShsargp.dll (this mes
+sage isLhaadimleg C:\
+Users\SpaointgataA\nsalysis\Documennts\ski\nectv2\kinectview_Datna\Managed\As\senmbly-CSshabrp.dll into Unityo Chiild Doma in
+ain
+Plattoform assbeymbC:\Use\rs\SportDataAnalnysis\Docucents\kinectv2\kinectview_Data\Maanaged\UnityEngninee.UI.dll (this message is harmless)
+Loadding C:\Uessers\StportDaataAna\lysims\Documencts2\kinecctv2\kinectvMiew_Da\tnatyE\gianaged\UnitynEngine.UI.dill into Un
+ity Child Domain
+- Completed reload, in -0. 0C sepcotedd
+ reload, in  0.109 seconds
+<<IR I> Initialnzing inzing input.t.
+
+XInXut1np.dll nod ll no.t found. ITrying1X_nput9_1_0.d0l dinstead..d.
+..
+<<R> Inputu iinitiiaileize
+d.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializeditiali zed trt.uch u
+port.
+Plalform assembly: C:\Us:\rs\SportDataAnalysis\Documecntes\kinencttv2\kinectview_Data\Maanaged\Systemm.Core.dlo (this metssagme isg  hsarmlesss))
+Platfoorm asssembyly: C:\erUsSers\SptaAnalysis\DocumDocementt\k\neintec\kvi\kectnectviDw_Data\Managed\Systee.dll (thisis m smessage is harmles
+s)
